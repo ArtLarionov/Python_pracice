@@ -1,3 +1,3 @@
-## Python_pracice
+## Got some pracice in Python
 
-### These are my training files in Python.
+#### These are my training files in Python.
